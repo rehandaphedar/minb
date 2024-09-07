@@ -1,0 +1,9 @@
+services:
+  frontend:
+    image: rehandaphedar/minb
+    build:
+      context: '.'
+      dockerfile: 'Dockerfile'
+    command: ['node', '.']
+    ports:
+      - '3001:3000'
