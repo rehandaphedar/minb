@@ -4,7 +4,7 @@
 
 minb is a recreation of [Basecamp Todos](https://basecamp.com/features/hill-charts), built with SvelteKit, Supabase, and Bulma CSS.
 
-- [Demo](https://minb.demos.rehandaphedar.com)
+- [Demo](https://minb.demos.rehandaphedar.com) (If the demo has issues, it is probably because it is paused on Supabase. Feel free to contact me, and I will unpause it swiftly.)
 
 # Screenshots
 
