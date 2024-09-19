@@ -4,7 +4,11 @@
 
 minb is a recreation of [Basecamp Todos](https://basecamp.com/features/hill-charts), built with SvelteKit, Supabase, and Bulma CSS.
 
-- [Demo](https://minb.demos.rehandaphedar.com) (If the demo has issues, it is probably because it is paused on Supabase. Feel free to contact me, and I will unpause it swiftly.)
+- [Demo](https://minb.demos.rehandaphedar.com)
+
+If the demo has issues, it is probably because it is paused on Supabase. Feel free to contact me, and I will unpause it swiftly.
+
+Also, Supabase will be disabling sending Auth emails to members outside of the project's organisation soon. If you have issues with the demo because of it, contact me and I will make an account for you.
 
 # Screenshots
 
